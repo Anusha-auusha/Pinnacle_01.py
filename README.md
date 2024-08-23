@@ -27,6 +27,17 @@ This project is a simple Python-based desktop application that displays a monthl
 ## Installation
 No additional installation steps are required, as tkinter comes pre-installed with Python. Simply download the project files to your local machine.
 
+## Running the Application
+
+1. Run the Application:
+
+```sh
+python calendar_app.py
+
+2. The application window will open, displaying the current month’s calendar.
+3. Use the < and > buttons to navigate between months.
+4. Click on any day to set a reminder. The day will be highlighted in yellow if a reminder is set.
+
 ## Results
 
 The application successfully allows users to:
