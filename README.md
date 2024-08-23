@@ -30,10 +30,7 @@ No additional installation steps are required, as tkinter comes pre-installed wi
 ## Running the Application
 
 1. Run the Application:
-
-```sh
-python calendar_app.py
-
+- python calendar_app.py
 2. The application window will open, displaying the current month’s calendar.
 3. Use the < and > buttons to navigate between months.
 4. Click on any day to set a reminder. The day will be highlighted in yellow if a reminder is set.
@@ -47,7 +44,7 @@ The application successfully allows users to:
 - Easily navigate between months using the provided navigation buttons.
 - Users can see their reminders highlighted in yellow, providing a quick visual reference for days with scheduled tasks or events.
 
-Example Usage
+## Example Usage
 - Setting a Reminder: Clicking on a day in the calendar prompts the user to enter a reminder. This reminder is then stored and associated with that specific date.
 - Viewing Reminders: Days with reminders are highlighted, allowing users to quickly identify important dates.
   
